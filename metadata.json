@@ -1,0 +1,6 @@
+{
+  "name": "Links Fabrine Fernandes",
+  "description": "Página oficial de links, cursos, capacitações, avaliações clínicas e M.A.P.A. do Acolhimento® de Fabrine Fernandes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
